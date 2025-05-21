@@ -1,7 +1,7 @@
 # Interface KenzieFlix
 
 <p align="center">
-  <img src="./img/project.pngng" alt="BLog Kenzie">
+  <img src="./img/project.png" alt="KenzieFlix">
 </p>
 
 ## Descrição
